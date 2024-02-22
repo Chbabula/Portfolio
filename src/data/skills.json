@@ -1,0 +1,36 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "data/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "data/css.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "data/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "data/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "data/node.png"
+    },
+    
+    {
+      "title": "MongoDB",
+      "imageSrc": "data/mongodb.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "data/Python.png"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "data/django.png"
+    }
+   
+  ]

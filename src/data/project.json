@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an website.",
+      "skills": [ "Javascript", "React", "Express", "Node"],
+      "demo": "https://buy-and-sell-6ywpejy5o-chbabula.vercel.app/",
+      "source": "https://github.com/Chbabula/buy-and-sell"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an website.",
+      "skills": [ "TypeScript", "React", "Express", "Node"],
+      "demo": "https://event-spark-ne1ssbrie-chbabula.vercel.app/",
+      "source": "https://github.com/Chbabula"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an website",
+      "skills": [ "Javascript","React", "Express", "Node"],
+      "demo": "https://awass-vishwa-baein7a0e-chbabula.vercel.app/",
+      "source": "https://github.com/Chbabula"
+    },
+    {
+      "title": "Project D",
+      "imageSrc": "projects/project.png",
+      "description": "Food Delivery Price Calculator API",
+      "skills": [ "Python","Django", "Swagger"],
+      "demo": "https://food-89s3.onrender.com/swagger/",
+      "source": "https://github.com/Chbabula/food"
+    }
+  ]
