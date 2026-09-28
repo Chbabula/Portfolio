@@ -64,7 +64,7 @@
     font-size: 25px;
 }
 
-@media screen and(max-width: 380px) {
+@media screen and (max-width: 380px) {
 
     .container {
         padding: 60px;
