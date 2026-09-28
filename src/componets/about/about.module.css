@@ -81,13 +81,13 @@
     }
 
     .aboutItems {
-        margin-top: 29px;
-        font-size: 15px;
+        margin-top: 10px;
+        gap: 20px;
     }
 
     .aboutItem {
-        padding-left: 0;
-        padding-right: 0;
+        padding: 0px;
+        font-size: 20px;
     }
     .title {
     font-size: 25px;
